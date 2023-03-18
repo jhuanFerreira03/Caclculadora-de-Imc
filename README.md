@@ -8,7 +8,7 @@ O uso da aplicação é intuitivo e fácil, sendo necessário apenas informar os
 ![imc](https://github.com/jhuanFerreira03/assets/blob/master/calc_imc/LTDA.png?raw=true)
 
 # Tecnologias utilizadas
-## Back end
+
 - Python
 - Pyqt5
 - Banco de dados Mysql
