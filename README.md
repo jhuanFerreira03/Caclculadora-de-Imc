@@ -13,6 +13,7 @@ O uso da aplicação é intuitivo e fácil, sendo necessário apenas informar os
 - Pyqt5
 - Banco de dados Mysql
 - CSS
+- Qt designer
 
 # Como executar o projeto
 
