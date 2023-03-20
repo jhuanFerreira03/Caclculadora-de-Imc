@@ -17,7 +17,7 @@ O uso da aplicação é intuitivo e fácil, sendo necessário apenas informar os
 
 # Como executar o projeto
 
-apenas clonando o repositório e executando o arquivo "Main(Sem BD).py".
+Apenas clonando o repositório e executando o arquivo "Main(Sem BD).py".
 
 # Autor
 
